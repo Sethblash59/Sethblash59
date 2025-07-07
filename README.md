@@ -3,15 +3,15 @@
 </h1>
 
 <br>
-      👨‍💻 About Me
+👨‍💻 About Me
       
 🔭 I’m currently working on a rogue like video game
     
 💬 Ask me about anything related to web development.
     
-📫 How to reach me: [axel.bedu.pro@gmail.com](mailto:axel.bedu.pro@gmail.com)
+📫 How to reach me : [axel.bedu.pro@gmail.com](mailto:axel.bedu.pro@gmail.com)
     
-😄 Fun fact: I love to draw to
+😄 Fact about me : I love to draw to
 
 <br>
 
@@ -27,4 +27,14 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+<p align="center">
+    <a href="https://github.com/sethblash59">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=[VOTRE_PSEUDO_GITHUB]&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" alt="GitHub Stats" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/sethblash59">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[VOTRE_PSEUDO_GITHUB]&layout=compact&theme=dracula" alt="Top Languages" />
+    </a>
 </p>
