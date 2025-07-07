@@ -3,7 +3,7 @@
 I also stream on twitch !
 <br>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
 <table>
   <tr>
     <td width="150px" valign="top"><strong>Learned:</strong></td>
@@ -46,7 +46,7 @@ I also stream on twitch !
 </table>
 </p>
 <br>
-<h3 align="center">GitHub Stats</h3>
+<h3>GitHub Stats</h3>
 <p align="center">
     <a href="https://github.com/Sethblash59">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sethblash59&show_icons=true&include_all_commits=true&theme=dracula&count_private=true&cache_bust=1" alt="Sethblash59's GitHub Stats" />
