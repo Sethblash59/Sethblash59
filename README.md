@@ -4,6 +4,8 @@
 
 <br>
 👨‍💻 About Me
+
+🎮 I love to play videos games and im also a streamer on [twitch](https://www.twitch.tv/sethblach)
       
 🔭 I’m currently working on a rogue like video game
     
@@ -30,11 +32,11 @@
 </p>
 <p align="center">
     <a href="https://github.com/Sethblash59">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=[VOTRE_PSEUDO_GITHUB]&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" alt="GitHub Stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=[Sethblash59]&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" alt="GitHub Stats" />
     </a>
 </p>
 <p align="center">
     <a href="https://github.com/Sethblash59">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[VOTRE_PSEUDO_GITHUB]&layout=compact&theme=dracula" alt="Top Languages" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Sethblash59]&layout=compact&theme=dracula" alt="Top Languages" />
     </a>
 </p>
