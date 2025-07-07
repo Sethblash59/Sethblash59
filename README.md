@@ -32,11 +32,13 @@
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 <h3 align="center">GitHub Stats</h3>
-<p>
+<p align="center">
     <a href="https://github.com/Sethblash59">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sethblash59&show_icons=true&include_all_commits=true&theme=dracula&count_private=true&cache_bust=1" alt="Sethblash59's GitHub Stats" />
     </a>
-     <a href="https://github.com/Sethblash59">
+</p>
+<p align="center">
+    <a href="https://github.com/Sethblash59">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sethblash59&layout=compact&theme=dracula&cache_bust=1" alt="Sethblash59's Top Languages" />
     </a>
 </p>
