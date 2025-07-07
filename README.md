@@ -3,10 +3,13 @@
 </h1>
 
 <br>
-    ### 👨‍💻 About Me
+      👨‍💻 About Me
     - 🔭 I’m currently working on a rogue like video game
+    
     - 💬 Ask me about anything related to web development.
+    
     - 📫 How to reach me: [axel.bedu.pro@gmail.com](mailto:axel.bedu.pro@gmail.com)
+    
     - 😄 Fun fact: I love to draw to
 
 <br>
