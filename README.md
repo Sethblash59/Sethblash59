@@ -1,5 +1,5 @@
 <h1 align="center">
- [Header](./your-header-image-name.png)
+ <img src="./your-header-image-name.png>
 </h1>
 
 <br>
