@@ -3,7 +3,8 @@
 </h1>
 
 <br>
-👨‍💻 About Me
+👨‍💻 About Me :
+
 
 🎮 I love to play videos games and im also a streamer on [twitch](https://www.twitch.tv/sethblach)
       
