@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+<h1> Hello I am Axel or Sethblach</h1>
 <br>
 👨‍💻 About Me :
 
