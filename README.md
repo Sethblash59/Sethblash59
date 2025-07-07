@@ -3,20 +3,12 @@
 </h1>
 
 <br>
-
-<p align="center">
-  <details>
-    <summary><strong>🇬🇧 Click for English version</strong></summary>
-    <br>
-
     ### 👨‍💻 About Me
     - 🔭 I’m currently working on a rogue like video game
     - 💬 Ask me about anything related to web development.
     - 📫 How to reach me: [axel.bedu.pro@gmail.com](mailto:axel.bedu.pro@gmail.com)
     - 😄 Fun fact: I love to draw to
 
-  </details>
-</p>
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
