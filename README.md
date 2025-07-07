@@ -17,21 +17,6 @@
 
   </details>
 </p>
-
-<p align="center">
-  <details open>
-    <summary><strong>🇫🇷 Cliquez pour la version française</strong></summary>
-    <br>
-    
-    ### 👨‍💻 À propos de moi
-    - 🔭 Je travaille actuellement sur un jeu vidéo de type rogue like
-    - 💬 Posez-moi des questions sur le développement web.
-    - 📫 Comment me contacter : [axel.bedu.pro@gmail.com](mailto:axel.bedu.pro@gmail.com)
-    - 😄 Fait amusant : j'aime aussi dessiner
-
-  </details>
-</p>
-
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
