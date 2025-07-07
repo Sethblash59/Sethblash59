@@ -4,7 +4,7 @@ I also stream on twitch !
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<p>
 
 <h2> Learned:</h2>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
@@ -35,8 +35,8 @@ I also stream on twitch !
 <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot Engine"/>
 <img src="https.img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" alt="Inkscape"/>
 
-<br>
 </p>
+<br>
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
     <a href="https://github.com/Sethblash59">
