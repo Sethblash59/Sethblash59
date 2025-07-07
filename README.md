@@ -36,9 +36,7 @@
     <a href="https://github.com/Sethblash59">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sethblash59&show_icons=true&include_all_commits=true&theme=dracula&count_private=true&cache_bust=1" alt="Sethblash59's GitHub Stats" />
     </a>
-</p>
-<p align="center">
-    <a href="https://github.com/Sethblash59">
+     <a href="https://github.com/Sethblash59">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sethblash59&layout=compact&theme=dracula&cache_bust=1" alt="Sethblash59's Top Languages" />
     </a>
 </p>
