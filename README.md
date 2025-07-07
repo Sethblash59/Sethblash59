@@ -30,13 +30,14 @@
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
+<h3 align="center">GitHub Stats</h3>
 <p align="center">
     <a href="https://github.com/Sethblash59">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=[Sethblash59]&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" alt="GitHub Stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sethblash59&show_icons=true&include_all_commits=true&theme=dracula&count_private=true&cache_bust=1" alt="Sethblash59's GitHub Stats" />
     </a>
 </p>
 <p align="center">
     <a href="https://github.com/Sethblash59">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Sethblash59]&layout=compact&theme=dracula" alt="Top Languages" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sethblash59&layout=compact&theme=dracula&cache_bust=1" alt="Sethblash59's Top Languages" />
     </a>
 </p>
