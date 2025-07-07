@@ -1,17 +1,5 @@
-<h1> Hello I am Axel or Sethblach</h1>
-<br>
-👨‍💻 About Me :
-
-
-🎮 I love to play videos games and im also a streamer on [twitch](https://www.twitch.tv/sethblach)
+<h1> Hi im Axel i am student in web developpement i am also a streamer on [twitch](https://www.twitch.tv/sethblach) </h1>
       
-🔭 I’m currently working on a rogue like video game
-    
-💬 Ask me about anything related to web development.
-    
-📫 How to reach me : [axel.bedu.pro@gmail.com](mailto:axel.bedu.pro@gmail.com)
-    
-😄 Fact about me : I love to draw to
 
 <br>
 
